@@ -1,7 +1,7 @@
 # toojessy.github.io
-print("hello world")
 
-#Amout Me
+
+### About Me
 ## My Interests
     - I'm interested in the networking aspect of technologyy, but I also like to work with the kids at my job and seeing how they interact with technology
 ## Wbsites I Reccommend
