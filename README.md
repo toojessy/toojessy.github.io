@@ -1,2 +1,2 @@
 # toojessy.github.io
-pring("hello world")
+print("hello world")
