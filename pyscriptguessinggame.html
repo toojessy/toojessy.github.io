@@ -29,7 +29,7 @@
         user_guess = int(Element("guess").value)
         result = Element("result")
         if user_guess == selection:
-            result.write("Congratulations! You guess correctly.")
+            result.write("Congratulations! You guessed correctly.")
         elif user_guess > selection:
             result.write("Try again! Your guess was too high.")
         else:
